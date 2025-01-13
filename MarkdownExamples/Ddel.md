@@ -1,3 +1,9 @@
+How to use code? 'Hello Github'
+
+'''
+def save_,model
+'''
+
 ~What is _markdown_ *and how does one use*~
 
 > "Websites have great guildelines" ()
