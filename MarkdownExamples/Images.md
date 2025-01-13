@@ -9,3 +9,5 @@ No Space, Add ![Name](.png or .jpg)
 
 
 ### Must use .png, jpeg, etc
+
+#### If you require a image to be added from your LOCAL then submit a Feature Request, and attach
